@@ -4,6 +4,7 @@
 #define endl "\n"
 using namespace std;
 int Su[1000001] = { 0, };
+//1929backjun 
 int main() {
 	fast;
 	int M, N;
